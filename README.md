@@ -99,4 +99,3 @@ npm start
 ## 📄 License
 
 Personal portfolio - feel free to use as a template for your own portfolio.
-
